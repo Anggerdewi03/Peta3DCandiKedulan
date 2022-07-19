@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+define({
+'widgets/Measurement3D/setting/nls/strings':{"defaultAreaUnit":"Predvolená jednotka plochy","defaultLengthUnit":"Predvolená jednotka dĺžky","metric":"Metrická","imperial":"Anglická","squareKilometers":"Štvorcové kilometre","squareMeters":"Štvorcové metre","squareMiles":"Štvorcové míle","squareInches":"Štvorcové palce","squareFeet":"Štvorcové stopy","squareYards":"Štvorcové yardy","squareUSFeet":"Štvorcové stopy (US)","acres":"Akre","ares":"Áre","hectares":"Hektáre","inches":"Palce","feet":"Stopy","yards":"Yardy","miles":"Míle","nauticalMiles":"Námorné míle","feetUS":"Stopy (US)","meters":"Metre","kilometers":"Kilometre","showArea":"Plocha","showDistance":"Vzdialenosť","showLocation":"Umiestnenie","showSlice":"Rozdelenie","showtools":"Zobraziť nástroje merania:","allHidedTips":"Mal by byť vybraný aspoň jeden nástroj.","_localized":{}}
+});

@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Measurement3D/nls/strings":{_widgetLabel:"\uce21\uc815",newMeasurement:"\uc0c8 \uce21\uc815",distance:"\uac70\ub9ac",area:"\uc601\uc5ed",slice:"\ubd84\ud560",measureDistance:"\uac70\ub9ac \uce21\uc815",measureArea:"\uba74\uc801 \uce21\uc815",sliceObjects:"\uac1d\uccb4 \ubd84\ud560",hint:"\uc2dc\uc791\ud558\ub824\uba74 \uba3c\uc800 \uce21\uc815 \ub3c4\uad6c \uc120\ud0dd",_localized:{}}});

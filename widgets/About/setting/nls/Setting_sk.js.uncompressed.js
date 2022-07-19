@@ -1,0 +1,19 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+define({
+'dijit/_editor/nls/commands':{"bold":"Tučné","copy":"Kopírovať","cut":"Vystrihnúť","delete":"Vymazať","indent":"Odsadiť","insertHorizontalRule":"Vodorovná čiara","insertOrderedList":"Číslovaný zoznam","insertUnorderedList":"Zoznam s odrážkami","italic":"Kurzíva","justifyCenter":"Zarovnať na stred","justifyFull":"Zarovnať k okrajom","justifyLeft":"Zarovnať vľavo","justifyRight":"Zarovnať vpravo","outdent":"Zmenšiť odsadenie","paste":"Prilepiť","redo":"Znova","removeFormat":"Odstrániť formátovanie","selectAll":"Vybrať všetko","strikethrough":"Prečiarknuť","subscript":"Dolný index","superscript":"Horný index","underline":"Podčiarknuť","undo":"Späť","unlink":"Odstrániť prepojenie","createLink":"Vytvoriť prepojenie","toggleDir":"Prepnúť smer","insertImage":"Vložiť obrázok","insertTable":"Vložiť/upraviť tabuľku","toggleTableBorder":"Prepnúť ohraničenie tabuľky","deleteTable":"Odstrániť tabuľku","tableProp":"Vlastnosť tabuľky","htmlToggle":"Zdrojový kód HTML","foreColor":"Farba popredia","hiliteColor":"Farba pozadia","plainFormatBlock":"Štýl odseku","formatBlock":"Štýl odseku","fontSize":"Veľkosť písma","fontName":"Názov písma","tabIndent":"Odsadenie tabulátora","fullScreen":"Prepnúť na celú obrazovku","viewSource":"Zobraziť zdrojový kód HTML","print":"Vytlačiť","newPage":"Nová stránka","systemShortcut":"Akcia \"${0}\" je vo vašom prehliadači dostupná iba prostredníctvom klávesovej skratky. Stlačte ${1}.","ctrlKey":"Ctrl+${0}","appleKey":"⌘${0}","_localized":{}}
+,
+'dijit/_editor/nls/FontChoice':{"fontSize":"Veľkosť","fontName":"Písmo","formatBlock":"Formát","serif":"serif","sans-serif":"sans-serif","monospace":"monospace","cursive":"cursive","fantasy":"fantasy","noFormat":"Žiadny","p":"Odsek","h1":"Hlavička","h2":"Podhlavička","h3":"Pod-podhlavička","pre":"Predformátované","1":"xx-small","2":"x-small","3":"small","4":"medium","5":"large","6":"x-large","7":"xx-large","_localized":{}}
+,
+'dojox/editor/plugins/nls/Preview':{"preview":"Náhľad","_localized":{}}
+,
+'dojox/editor/plugins/nls/FindReplace':{"findLabel":"Hľadať:","findTooltip":"Zadajte text na nájdenie","replaceLabel":"Nahradiť s:","replaceTooltip":"Zadajte text na nahradenie","findReplace":"Hľadať a nahradiť","matchCase":"Rozlišovať veľkosť písmen","matchCaseTooltip":"Rozlišovať veľkosť písmen","backwards":"Dozadu","backwardsTooltip":"Hľadať text dozadu","replaceAllButton":"Nahradiť všetko","replaceAllButtonTooltip":"Nahradiť všetok text","findButton":"Hľadať","findButtonTooltip":"Hľadať text","replaceButton":"Nahradiť","replaceButtonTooltip":"Nahradiť text","replaceDialogText":"Nahradilo sa ${0} výskytov.","eofDialogText":"Posledný výskyt ${0}","eofDialogTextFind":"nájdený","eofDialogTextReplace":"nahradený","_localized":{}}
+,
+'dojox/editor/plugins/nls/PasteFromWord':{"pasteFromWord":"Prilepiť z aplikácie Word","instructions":"Prilepte obsah z aplikácie Word do textového okienka dole. Keď ste spokojný s obsahom na vloženie, stlačte tlačidlo prilepenia. Ak chcete zrušiť vkladanie textu, stlačte tlačidlo zrušenia.","_localized":{}}
+,
+'dojox/editor/plugins/nls/InsertAnchor':{"insertAnchor":"Vložiť kotvu","title":"Vlastnosti kotvy","anchor":"Názov:","text":"Opis:","set":"Nastaviť","cancel":"Zrušiť","_localized":{}}
+,
+'dojox/editor/plugins/nls/Blockquote':{"blockquote":"Blok citátu","_localized":{}}
+,
+'widgets/About/setting/nls/strings':{"instruction":"Vytvorte obsah, ktorý sa zobrazí v tomto widgete.","defaultContent":"Sem pridajte text, prepojenia a malú grafiku.","productVersion":"Verzia produktu: ","kernelVersion":"Verzia jadra: ","_localized":{}}
+});

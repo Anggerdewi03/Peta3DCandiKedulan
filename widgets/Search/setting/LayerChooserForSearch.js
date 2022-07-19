@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define(["dojo/_base/declare","dojo/Deferred","dojo/_base/html","dojo/_base/lang","for3dSetting/FeaturelayerChooserFromMap3d"],function(d,e,h,c,f){return d([f],{declaredClass:"jimu.dijit.FeaturelayerChooserFromMap3d",_featureLayerFilter:function(a){var b=new e,g=this.mustSupportQuery?this._isQueryable(a):!0;a&&"feature"===a.type&&g?b.resolve():a&&"scene"===a.type?a.queryFeatures().then(c.hitch(this,function(){b.resolve()}),c.hitch(this,function(){b.reject()})):b.reject();return b}})});

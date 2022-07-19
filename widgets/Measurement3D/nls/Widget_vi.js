@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Measurement3D/nls/strings":{_widgetLabel:"\u0110o l\u01b0\u1eddng",newMeasurement:"Ph\u00e9p \u0111o M\u1edbi",distance:"Kho\u1ea3ng c\u00e1ch",area:"Khu v\u1ef1c",slice:"Slice",measureDistance:"\u0110o Kho\u1ea3ng c\u00e1ch",measureArea:"\u0110o Di\u1ec7n t\u00edch",sliceObjects:"Slice Objects",hint:"Ch\u1ecdn m\u1ed9t c\u00f4ng c\u1ee5 \u0111o l\u01b0\u1eddng tr\u01b0\u1edbc \u0111\u1ec3 b\u1eaft \u0111\u1ea7u",_localized:{}}});
